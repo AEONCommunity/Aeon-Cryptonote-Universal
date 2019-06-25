@@ -1,7 +1,8 @@
-cryptonote-xmr-pool
+cryptonote-Aeon-pool
 ====================
 
-High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, etc..
+High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Aeon.
+
 Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
@@ -78,11 +79,11 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * [CryptoNote Technology](https://cryptonote.org)
 * [CryptoNote Forum](https://forum.cryptonote.org/)
 * [CryptoNote Universal Pool Forum](https://bitcointalk.org/index.php?topic=705509)
+* [Aeon Community Discord](https://discord.gg/8DVMyVJ)
 
 #### Pools Using This Software
 
-* http://xmr.poolto.be run by PCFil
-* http://xmr.cncoin.farm run by clintar
+* http://aeon.lol:8080/ run by Stoffu
 
 Usage
 ===
@@ -117,7 +118,7 @@ sudo apt-get install git redis-server libboost1.55-all-dev nodejs-dev nodejs-leg
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/clintar/cryptonote-xmr-pool.git pool
+git clone https://github.com/AEONCommunity/Aeon-Cryptonote-Universal pool
 cd pool
 npm update
 ```
